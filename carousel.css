@@ -35,12 +35,12 @@ body {
 }
 .navbar {
   background: linear-gradient(to right, #ff0066 -2%, #660033 100%);
+  
 }
-.nav-item {
-  
-  color: #f2f2f2;
-  
-  padding: 8px 9px;
+
+.nav-item {  
+  color: #ff0066;
+  padding: 8px 14px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -87,3 +87,7 @@ body {
     margin-top: 7rem;
   }
 }
+
+
+
+/*-------------------------------product ---------------------------------*/
